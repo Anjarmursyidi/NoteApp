@@ -1,0 +1,4 @@
+#Tue Nov 05 13:05:25 ICT 2019
+base.0=D\:\\KULI'AH\\111\\MobileComputing\\NotesApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

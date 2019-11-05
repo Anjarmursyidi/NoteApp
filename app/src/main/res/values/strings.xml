@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Anjar Mursyidi</string>
+    <string name="nav_header_subtitle">anjarmursyidi18@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Search</string>
+
+    <string name="menu_home">My Notes</string>
+    <string name="menu_gallery">Recycler bin</string>
+    <string name="menu_slideshow">Colors</string>
+    <string name="menu_tools">Folders</string>
+    <string name="menu_share">Setting</string>
+    <string name="menu_send">Send</string>
+</resources>
